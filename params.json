@@ -1,6 +1,0 @@
-{
-  "name": "kallisto-sleuth workshop",
-  "tagline": "materials and schedule",
-  "body": "### Workshop overview\r\n\r\nThe first kallisto-sleuth workshop will be held on Monday October 24th from 1pm--4pm in Sibley Auditorium on the UC Berkeley campus. The workshop is free but registration is required.\r\n\r\n### Schedule\r\n\r\nOctober 24th in Sibley Auditorium\r\n\r\n- **1:00 — 1:15pm** Lior Pachter (overview)\r\n- **1:15pm — 1:45pm** Páll Melsted (live demo of kallisto)\r\n- **1:45pm — 2:15pm** Nicolas Bray (explanation of kallisto methods, what is pseudoalignment, the EM, bootstrap)\r\n- **2:15pm — 2:30pm** (break)\r\n- **2:30pm — 3:30pm** Harold Pimentel (sleuth demonstration explanation)\r\n- **3:30pm — 4pm** Vasilis Ntranos (single cell)\r\n\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
